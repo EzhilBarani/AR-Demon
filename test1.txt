@@ -1,1 +1,2 @@
-create test1.txt
+create test1.txt 
+pinapple pen ppop pinapple pen
